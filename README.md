@@ -43,7 +43,7 @@ While I have backend knowledge from the **ALX Backend track**, my focus is **fro
 | 🎬 **Movie App** | Browse, search, and explore movies using the TMDB API. **SSR + API integration** with Next.js. | Next.js, TMDB API | [GitHub](#) |
 | 🎮 **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub](#) |
 | 🎟️ **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub](#) |
-| 📚 **Study Companion App** | Full-featured study app built for real-world collaboration. Focused on **frontend UX/UI** with Nest.js backend support. | Next.js, Tailwind, Nest.js | [GitHub](#) |
+| 📚 **Study Companion App** | Full-featured study app built for real-world collaboration. Focused on **frontend UX/UI** with Next.js backend support. | Next.js, Tailwind, Nest.js | [GitHub](#) |
 
 ---
 
