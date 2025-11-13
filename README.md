@@ -1,73 +1,68 @@
 <h2 align="center">Hi there, I'm Chiamaka 👋</h2>
 
 <p align="center">
-  Frontend Developer | Learning Backend | Building Toward Fullstack 🌱
+  Frontend Developer | Crafting Modern Web Experiences 🌱
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a web developer passionate about **building clean, functional, and user-friendly products**.
+I’m a web developer passionate about **building clean, functional, and user-friendly interfaces**.  
+While I have backend knowledge from the **ALX Backend track**, my focus is **frontend development and creating seamless user experiences**.
 
-- 🌐 Started in frontend (React, Next.js, TailwindCSS)
-- 🔁 Transitioning into backend (Node.js, databases)
-- 🎓 Currently learning through the **ALX Software Engineering program**
-- 🤝 Love collaborating on meaningful, real-world projects
+- 🌐 Experienced in **React, Next.js, TailwindCSS**  
+- 🔁 Familiar with backend concepts (Node.js, Django REST) — applied in **full-stack projects like StackTrack**  
+- 🤝 Collaborative and driven by real-world problem-solving  
+- 🚀 Constantly exploring modern web development trends
 
 ---
 
 ### 🔨 Tech Stack
 
-**Languages & Tools:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code" />
+</p>
 
 ---
 
-### 📌 Projects
+### 🚀 Featured Projects
 
-- 🎬 **[Movie App – Next.js + TMDB API](#)**  
-  Browse, search, and view movies using the TMDB API.
-
-- 🌐 **[React + Node.js Fullstack App](#)**  
-  Frontend + backend app with form handling and dynamic content.
-
-- 🗳️ **Polling System (Collab)**  
-  Simple interactive poll app built in collaboration with a backend dev.
-
-- 🎮 **Color Matching Game**  
-  React-based game using Context API.
-
-- 🎟️ **Conference Ticket Generator**  
-  Built with Tailwind, Formik, Yup, and Cloudinary.
-
----
-
-### 🚀 Currently Building...
-
-- A **full-featured study companion app** (Next.js + Tailwind) — part of a real-world collaboration at TopicalText Limited  
-- Deepening backend skills through **ALX_BE**  
-- Continuing to create, learn, and ship 🚢
+| Project | Description | Tech Stack | Link |
+| ------- | ----------- | ---------- | ---- |
+| 📊 **StackTrack** | Full-stack project & task management platform with **JWT auth**, nested projects/stages/tasks, progress tracking, and dashboards. Frontend-focused with React + Tailwind. | React, Django REST, Tailwind | [GitHub](https://github.com/chiamakauyanna/stacktrack) |
+| 🗳️ **Polling System (Collab)** | Interactive poll app built with real-time updates, collaboration-focused. | React, Node.js | [GitHub](#) |
+| 🎬 **Movie App** | Browse, search, and explore movies using the TMDB API. **SSR + API integration** with Next.js. | Next.js, TMDB API | [GitHub](#) |
+| 🎮 **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub](#) |
+| 🎟️ **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub](#) |
+| 📚 **Study Companion App** | Full-featured study app built for real-world collaboration. Focused on **frontend UX/UI** with Nest.js backend support. | Next.js, Tailwind, Nest.js | [GitHub](#) |
 
 ---
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chiamakauyanna/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://developer-portfolio-flax-seven.vercel.app/))
-[![GitHub](https://img.shields.io/github/followers/chiamakauyanna?label=GitHub&style=social)](https://github.com/chiamakauyanna)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiamakauyanna/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://developer-portfolio-flax-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/chiamakauyanna">
+    <img src="https://img.shields.io/github/followers/chiamakauyanna?label=GitHub&style=social" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<!-- Optional GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiamakauyanna&show_icons=true&theme=react" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiamakauyanna&theme=react" width="48%" />
