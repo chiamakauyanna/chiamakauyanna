@@ -1,20 +1,20 @@
 <h2 align="center">Hi there, I'm Chiamaka 👋</h2>
 
 <p align="center">
-  Frontend Developer | Crafting Modern Web Experiences 🌱
+  Frontend Web Developer
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I’m a web developer passionate about **building clean, functional, and user-friendly interfaces**.  
-While I have backend knowledge from the **ALX Backend track**, my focus is **frontend development and creating seamless user experiences**.
+I’m a web developer passionate who loves building clean, functional, and user-friendly interfaces.  
+While I’ve gained strong backend exposure through the ALX Backend program and the 3MTT Software Development track, my main strength is frontend engineering and crafting smooth user experiences.
 
-- 🌐 Experienced in **React, Next.js, TailwindCSS**  
-- 🔁 Familiar with backend concepts (Node.js, Django REST) — applied in **full-stack projects like StackTrack**  
-- 🤝 Collaborative and driven by real-world problem-solving  
-- 🚀 Constantly exploring modern web development trends
+- 🌐 Skilled in React, Next.js, TailwindCSS 
+- 🔁 Comfortable with backend concepts (Node.js, Django REST) — applied in full-stack projects like StackTrack and Pollify
+- 🚀 Passionate about turning ideas into practical, polished products
+- 🤝 Enjoy collaborating, learning fast, and solving real-world problems 
 
 ---
 
@@ -38,12 +38,12 @@ While I have backend knowledge from the **ALX Backend track**, my focus is **fro
 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| 📊 **StackTrack** | Full-stack project & task management platform with **JWT auth**, nested projects/stages/tasks, progress tracking, and dashboards. Frontend-focused with React + Tailwind. | React, Django REST, Tailwind | [GitHub](https://github.com/chiamakauyanna/stacktrack) |
-| 🗳️ **Polling System (Collab)** | Interactive poll app built with real-time updates, collaboration-focused. | React, Node.js | [GitHub](#) |
-| 🎬 **Movie App** | Browse, search, and explore movies using the TMDB API. **SSR + API integration** with Next.js. | Next.js, TMDB API | [GitHub](#) |
-| 🎮 **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub](#) |
-| 🎟️ **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub](#) |
-| 📚 **Study Companion App** | Full-featured study app built for real-world collaboration. Focused on **frontend UX/UI** with Next.js backend support. | Next.js, Tailwind, Nest.js | [GitHub](#) |
+| **StackTrack** | Full-stack project & task management platform with **JWT auth**, progress tracking, and dashboards. Frontend-focused with React + Tailwind. | React, Django REST, TailwindCSS | [GitHub](https://github.com/chiamakauyanna/stacktrack) |
+| **Pollify** | A modern admin-first polling and voting platform with secure voter links, real-time results, and a clean analytics dashboard. | React, Node.js | [GitHub]((https://github.com/chiamakauyanna/pollify) |
+| **Movie App** | Browse, search, and explore movies using the TMDB API. **API integration** with Next.js. | Next.js, TMDB API | [GitHub]((https://github.com/chiamakauyanna/movie-project-nextjs) |
+| **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub]((https://github.com/chiamakauyanna/color-game) |
+| **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub]((https://github.com/chiamakauyanna/conference_ticket_generator) |
+| **Study Companion App** | Full-featured study app. Focused on **frontend UX/UI** with Next.js. | Next.js, Tailwind, Nest.js | [GitHub](#) |
 
 ---
 
@@ -53,7 +53,7 @@ While I have backend knowledge from the **ALX Backend track**, my focus is **fro
   <a href="https://www.linkedin.com/in/chiamakauyanna/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://developer-portfolio-flax-seven.vercel.app/">
+  <a href="https://chiamakauyanna-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github" alt="Portfolio" />
   </a>
   <a href="https://github.com/chiamakauyanna">
@@ -64,6 +64,7 @@ While I have backend knowledge from the **ALX Backend track**, my focus is **fro
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiamakauyanna&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiamakauyanna&theme=react" width="48%" />
+  <img src="https://github-readme-stats-git-master-3xc5.vercel.app/api?username=chiamakauyanna&show_icons=true&theme=react&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=chiamakauyanna&theme=react&cache_seconds=86400" width="48%" />
 </p>
+
