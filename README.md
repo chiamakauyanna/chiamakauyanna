@@ -1,6 +1,6 @@
-<h2 align="center">Hi there, I'm Chiamaka 👋</h2>
+<h2 align="left">Hi there, I'm Chiamaka 👋</h2>
 
-<p align="center">
+<p align="left">
   Frontend Web Developer
 </p>
 
@@ -11,8 +11,10 @@
 I’m a web developer passionate who loves building clean, functional, and user-friendly interfaces.  
 While I’ve gained strong backend exposure through the ALX Backend program and the 3MTT Software Development track, my main strength is frontend engineering and crafting smooth user experiences.
 
-- 🌐 Skilled in React, Next.js, TailwindCSS 
+- 🌐 Skilled in React, Next.js, TailwindCSS
+  
 - 🔁 Comfortable with backend concepts (Node.js, Django REST) — applied in full-stack projects like StackTrack and Pollify
+  
 - 🚀 Passionate about turning ideas into practical, polished products
 - 🤝 Enjoy collaborating, learning fast, and solving real-world problems 
 
@@ -20,7 +22,7 @@ While I’ve gained strong backend exposure through the ALX Backend program and 
 
 ### 🔨 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -49,7 +51,7 @@ While I’ve gained strong backend exposure through the ALX Backend program and 
 
 ### 📬 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/chiamakauyanna/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -63,7 +65,7 @@ While I’ve gained strong backend exposure through the ALX Backend program and 
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-git-master-3xc5.vercel.app/api?username=chiamakauyanna&show_icons=true&theme=react&cache_seconds=86400" width="48%" />
   <img src="https://streak-stats.demolab.com?user=chiamakauyanna&theme=react&cache_seconds=86400" width="48%" />
 </p>
