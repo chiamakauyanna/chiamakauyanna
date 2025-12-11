@@ -41,10 +41,10 @@ While I’ve gained strong backend exposure through the ALX Backend program and 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
 | **StackTrack** | Full-stack project & task management platform with **JWT auth**, progress tracking, and dashboards. Frontend-focused with React + Tailwind. | React, Django REST, TailwindCSS | [GitHub](https://github.com/chiamakauyanna/stacktrack) |
-| **Pollify** | A modern admin-first polling and voting platform with secure voter links, real-time results, and a clean analytics dashboard. | React, Node.js | [GitHub]((https://github.com/chiamakauyanna/pollify) |
-| **Movie App** | Browse, search, and explore movies using the TMDB API. **API integration** with Next.js. | Next.js, TMDB API | [GitHub]((https://github.com/chiamakauyanna/movie-project-nextjs) |
-| **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub]((https://github.com/chiamakauyanna/color-game) |
-| **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub]((https://github.com/chiamakauyanna/conference_ticket_generator) |
+| **Pollify** | A modern admin-first polling and voting platform with secure voter links, real-time results, and a clean analytics dashboard. | React, Node.js | [GitHub](https://github.com/chiamakauyanna/pollify) |
+| **Movie App** | Browse, search, and explore movies using the TMDB API. **API integration** with Next.js. | Next.js, TMDB API | [GitHub](https://github.com/chiamakauyanna/movie-project-nextjs) |
+| **Color Matching Game** | Fun React-based game using **Context API** for state management. | React, Context API | [GitHub](https://github.com/chiamakauyanna/color-game) |
+| **Conference Ticket Generator** | Responsive UI with Tailwind, Formik, Yup, and Cloudinary. | React, Tailwind, Formik, Cloudinary | [GitHub](https://github.com/chiamakauyanna/conference_ticket_generator) |
 | **Study Companion App** | Full-featured study app. Focused on **frontend UX/UI** with Next.js. | Next.js, Tailwind, Nest.js | [GitHub](#) |
 
 ---
