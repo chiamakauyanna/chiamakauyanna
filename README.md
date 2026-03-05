@@ -8,8 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I’m a web developer passionate who loves building clean, functional, and user-friendly interfaces.  
-While I’ve gained strong backend exposure through the ALX Backend program and the 3MTT Software Development track, my main strength is frontend engineering and crafting smooth user experiences.
+I’m a frontend web developer who loves building clean, functional, and user-friendly interfaces.  
 
 - 🌐 Skilled in React, Next.js, TailwindCSS
   
